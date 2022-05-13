@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[myghprof](https://github.com/rulial-space/rulial-space)
